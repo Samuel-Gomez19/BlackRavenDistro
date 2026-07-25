@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../ClassLibrary1/DataAccess.cs.csproj" Id="4503f7ff-d744-45a9-858b-5f5fafe34b8f" />
+  <Project Path="../Domain.cs/Domain.cs.csproj" Id="6c71cc81-9b2b-4a5e-a802-44e8335a2459" />
+  <Project Path="BlackRavenDistro.csproj" />
+</Solution>
