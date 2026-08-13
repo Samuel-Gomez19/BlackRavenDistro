@@ -1,4 +1,5 @@
 <Solution>
-  <Project Path="Domain.cs/Domain.cs.csproj" Id="6c71cc81-9b2b-4a5e-a802-44e8335a2459" />
+  <Project Path="../DataAcces/DataAcces.csproj" Id="c0bde985-2033-41c5-bd74-6c20f78482d8" />
   <Project Path="BlackRavenDistro.csproj" />
+  <Project Path="Domain/Domain.cs.csproj" />
 </Solution>
